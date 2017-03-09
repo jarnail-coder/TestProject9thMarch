@@ -5,4 +5,8 @@ public class Main {
 		//Jarnail Singh
 		System.out.println("THis is Jarnail");
 	}
+	public static void fun1()
+	{
+		//Function is incomplete
+	}
 }
