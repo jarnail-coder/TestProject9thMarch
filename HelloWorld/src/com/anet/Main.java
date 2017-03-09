@@ -11,6 +11,12 @@ public class Main {
 	static void function3() {
 		System.out.println("Hti sis funcaiton 3");
 		System.out.println("THis is Jarnail");
+		fun1();
+	}
+	public static void fun1()
+	{
+		//Function is incomplete
+		System.out.println("this is function 1");
 	}
 
 	public static void function2() {
