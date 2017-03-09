@@ -4,14 +4,14 @@ public class Main {
 	public static void main(String[] args) {
 		// Jarnail Singh
 		System.out.println("This is Aman");
-		function3();
+		fun1();
 		function2();
+		function3();
 	}
 
 	static void function3() {
 		System.out.println("Hti sis funcaiton 3");
 		System.out.println("THis is Jarnail");
-		fun1();
 	}
 	public static void fun1()
 	{
