@@ -7,6 +7,7 @@ public class Main {
 		fun1();
 		function2();
 		function3();
+		//updating file test1
 	}
 
 	static void function3() {
